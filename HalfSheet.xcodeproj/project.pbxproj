@@ -11,6 +11,7 @@
 		9C37AB0B27FAE047005787CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C37AB0A27FAE047005787CA /* ContentView.swift */; };
 		9C37AB0D27FAE047005787CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C37AB0C27FAE047005787CA /* Assets.xcassets */; };
 		9C37AB1027FAE047005787CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C37AB0F27FAE047005787CA /* Preview Assets.xcassets */; };
+		9C37AB1727FAE053005787CA /* Agreement .swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C37AB1627FAE053005787CA /* Agreement .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9C37AB0A27FAE047005787CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9C37AB0C27FAE047005787CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C37AB0F27FAE047005787CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9C37AB1627FAE053005787CA /* Agreement .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Agreement .swift"; path = "../../../Downloads/Mini-Challenge2/Mini-Challenge2/Agreement .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9C37AB0827FAE047005787CA /* HalfSheetApp.swift */,
 				9C37AB0A27FAE047005787CA /* ContentView.swift */,
+				9C37AB1627FAE053005787CA /* Agreement .swift */,
 				9C37AB0C27FAE047005787CA /* Assets.xcassets */,
 				9C37AB0E27FAE047005787CA /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				9C37AB0B27FAE047005787CA /* ContentView.swift in Sources */,
 				9C37AB0927FAE047005787CA /* HalfSheetApp.swift in Sources */,
+				9C37AB1727FAE053005787CA /* Agreement .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
